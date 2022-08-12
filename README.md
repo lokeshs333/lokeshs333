@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Data structures**
 
-- 🌱 I’m currently learning **Backend Frameworks**
+- 🌱 I’m currently learning **Backend Frameworks** Data Structures
 
-- 👯 I’m looking to collaborate on **frontend development**
+- 👯 I’m looking to collaborate on **projects**
 
 - 💬 Ask me about **Data structure**
 
