@@ -1,3 +1,12 @@
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lokeshs333&label=Profile+Views&color=00F5A0"/>
+</p>
+
+---
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0F2027&height=180&section=footer"/>
 <!--
     Lokesh Pandey | Loki
     Silent work. Loud impact.
@@ -116,15 +125,7 @@ Used deep learning (CNN) on 20 years of stock data for forecasting
 
 ---
 
-## 👀 Profile Views
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lokeshs333&label=Profile+Views&color=00F5A0"/>
-</p>
-
----
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0F2027&height=180&section=footer"/>
 
 <!--
     Designed with intent. Built with purpose.
