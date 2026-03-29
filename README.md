@@ -2,10 +2,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lokeshs333&label=Profile+Views&color=00F5A0"/>
-</p>
-
----
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0F2027&height=180&section=footer"/>
 <!--
     Lokesh Pandey | Loki
