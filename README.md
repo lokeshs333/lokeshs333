@@ -6,7 +6,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0F2027&height=180&section=header&text=Lokesh%20Pandey&fontSize=45&fontColor=00F5A0&animation=fadeIn"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=28&duration=3000&pause=800&color=00F5A0&center=true&vCenter=true&width=750&lines=HDL+%7C+System+Design;Software+Engineer;SIH+2023+Winner+🏆;HDL+%7C+System+Design;Building+Impactful+Tech" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=28&duration=3000&pause=800&color=00F5A0&center=true&vCenter=true&width=750&lines=HDL+%7C+System+Design;;SIH+2023+Winner+🏆;Software+Engineer;Building+Impactful+Tech" />
 </p>
 
 ---
