@@ -21,7 +21,7 @@ I build where logic meets purpose.
 From algorithms to architecture — I care about systems that *actually matter*.
 
 * 🎓 M.Tech @ NIT Durgapur 
-* 🏆 Smart India Hackathon 2023 Winner
+* 🏆 Smart India Hackathon 2023 Winner(#SIH1372)
 * 🧠 500+ DSA problems solved
 * 💻 Strong in C++, Web Dev & Core CS
 * 🔌 Exploring Verilog, ASIC & Digital Systems
