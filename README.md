@@ -38,102 +38,112 @@
 
 
 
-
 <!--
-    Hey there, I'm Daria Stanilevici!
-    Happy to see you here exploring my README code
-    Feel free to inspire!
-    
-    But may I please ask you to follow me in return? Just a click!
-    You may also want to connect with me on LinkedIn @daria-stanilevici :))
+    Lokesh Pandey | Loki
+    Presence over noise.
 -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0F2027&height=180&section=header&text=Lokesh%20Pandey&fontSize=45&fontColor=00F5A0&animation=fadeIn"/>
 
-<a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hello%2C+it's+Daria+Stanilevici;Business+Analyst" alt="Business Analyst"/>
-</a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=28&duration=3000&pause=800&color=00F5A0&center=true&vCenter=true&width=750&lines=Software+Engineer;SIH+2023+Winner+🏆;Problem+Solver+%7C+Builder;From+Logic+to+Impact" />
+</p>
 
-<!--
-    Your own Terminal GIF can be created here -> https://www.terminalgif.com
--->
+---
 
-<div>
-    <img src="./assets/about_daria.gif" alt="About Me Terminal GIF"/>
-</div>
+## 🧠 About Me
 
-<!--
-     My mission, because I'm a superhero!
--->
-<!--
-     This is the list of my skills and tools I am studying!
--->
-### Main skills
-[![My Skills](https://skillicons.dev/icons?i=py,regex,github,git,mongodb,mysql,eclipse,java,spring,js,nodejs,react,express,jest,jenkins,cpp,cs,dotnet,html,css,bootstrap,pug,php,androidstudio,blender,ps,notion)](https://skillicons.dev)
+<img align="right" height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-### Studying
-[![Learning](https://skillicons.dev/icons?i=aws,azure,ruby)](https://skillicons.dev)
+I don’t just build software — I build impact.
 
-<!--
-     I also have my own blog with useful information, check it out ^^
--->
+From solving hundreds of algorithmic problems to designing systems that touch the real world, my journey lives at the intersection of logic and purpose.
 
-### Publications
-<div> 
-  <a href="https://medium.com/@daria-stanilevici">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank" alt="Medium">
+* 🏆 Smart India Hackathon 2023 Winner
+* 🧠 500+ DSA problems solved
+* 💻 Strong foundation in C++, Web Development & Core CS
+* 🔌 Exploring Digital Design, Verilog & System-Level Thinking
+* 🌍 Built Blockchain-based Carbon Credit Platform
+* 🤝 Worked with Hero MotoCorp
+* 👨‍🏫 Coding Instructor (2+ years)
+* 🚀 Founder of Neem
+
+---
+
+## ⚙️ What I Work With
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,js,react,nodejs,express,mongodb,mysql,html,css,git,github,linux,java,python" />
+</p>
+
+---
+
+## 🧪 What I’ve Built
+
+* 🌍 Carbon Credit Blockchain Platform — transparency in sustainability
+* 📊 Stock Prediction System — deep learning meets finance
+* 📰 React News App — clean, real-time information flow
+* 🍽️ QR-Based Menu System — seamless ordering experience
+
+---
+
+## 📊 Presence
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🎯 Achievements
+
+* 🏆 Smart India Hackathon 2023 Winner
+* 🏅 Cisco Certified in Cybersecurity
+* 🎓 B.Tech CSE (77.25%)
+
+---
+
+## 🌱 Current Direction
+
+* AI & Real-world Applications
+* System Design & Scalability
+* Building impactful products through Neem
+
+---
+
+## ✍️ Philosophy
+
+> Build things that matter.
+> Let your work speak before you do.
+
+---
+
+## 🌐 Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" width="45"/>
   </a>
-  <a href="https://dev.to/daria-stanilevici">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank" alt="Dev.to">
-  </a>
-</div>
+</p>
 
-You can find my publications on Medium and Dev.to, where I share career insights, tips, and my knowledge and experience in tech.
-I also delve into personal thoughts and research on AI, quantum computing and other interesting topics.
+---
 
-<!--
-Check out my latest post 👇  
+## 👀 Visitors
 
-<a href="https://medium.com/@daria-stanilevici" target="_blank">
-  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@daria-stanilevici/0" alt="Latest Medium Article" />
-</a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=00F5A0"/>
+</p>
 
+---
 
-[![My latest Medium post](https://miro.medium.com/v2/resize:fit:1200/format:webp/INSERT-YOUR-COVER-IMAGE-ID-HERE)](https://medium.com/@daria-stanilevici/your-article-slug)
-
-
-     Fast links to my socials!
--->
-
-### Connect with me!
-<div>
-    <a href="https://www.linkedin.com/in/daria-stanilevici/">
-        <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
-    </a>
-    <a href="https://dev.to/daria-stanilevici">
-        <img src="https://github.com/user-attachments/assets/172bc424-569a-4522-a787-97f4cd5a685d" alt="Dev.to" width="37" height="37"/>
-    </a>
-    <a href="https://www.credly.com/users/daria-stanilevici">
-        <img src="https://github.com/user-attachments/assets/6cc0dbde-bca6-43e8-a460-aa67fb449c80" alt="Credly" width="35" height="35"/>
-    </a>
-    <a href="https://www.artstation.com/daria-stanilevici">
-        <img src="https://github.com/user-attachments/assets/1206188f-4274-4240-93e6-0dfc1919f9f0" alt="Art Station" width="33" height="33"/>
-    </a>
-    <a href="https://medium.com/@daria-stanilevici">
-        <img src="https://github.com/user-attachments/assets/33da1818-a750-4e4b-a09a-9c8b1c4e9338" alt="Medium" width="35" height="35"/>
-    </a>
-</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0F2027&height=180&section=footer"/>
 
 <!--
-     Oh, hello there, recruiters!
+    Silent work. Loud impact.
 -->
 
-### Employer?
-> [!IMPORTANT]  
-> <a href="https://drive.google.com/drive/folders/1hJGhQTtzDUzMqRtoIQUx7QTLtCN726ZK?usp=sharing" download>Download my resume</a>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
-
-<!--
-     Thanks for being my guest <3
--->
