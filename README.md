@@ -70,7 +70,7 @@ Used deep learning (CNN) on 20 years of stock data for forecasting
 ## 📊 GitHub Presence
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lokeshs333&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=lokeshs333&show_icons=true&theme=tokyonight&hide_border=true"/> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lokeshs333&theme=tokyonight&hide_border=true"/>
 </p>
 
