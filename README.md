@@ -18,7 +18,7 @@
 I build where logic meets purpose.
 From algorithms to architecture — I care about systems that *actually matter*.
 
-* 🎓 M.Tech (ECE) @ NIT Durgapur (Next Gen Communication & Networks)
+* 🎓 M.Tech @ NIT Durgapur 
 * 🏆 Smart India Hackathon 2023 Winner
 * 🧠 500+ DSA problems solved
 * 💻 Strong in C++, Web Dev & Core CS
@@ -106,7 +106,7 @@ Used deep learning (CNN) on 20 years of stock data for forecasting
 ## 🌐 Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/lokesh-pandey">
+  <a href="https://www.linkedin.com/in/lokesh-pandey-232887243/">
     <img src="https://img.icons8.com/fluency/48/linkedin.png" width="45"/>
   </a>
   <a href="https://github.com/lokeshs333">
